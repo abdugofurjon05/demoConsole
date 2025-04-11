@@ -14,6 +14,8 @@
         }
 
         public static int add(int a, int b) => a + b;
+        public static int sub(int a, int b) => a - b;
+
 
 
 
