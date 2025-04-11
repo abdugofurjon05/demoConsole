@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class FileName
+    public class FileName
     {
+
+
+        public static void Nothing()
+        {
+            Console.WriteLine("does nothing");
+        }
+
     }
 }
